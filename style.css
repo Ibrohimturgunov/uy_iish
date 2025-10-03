@@ -1,0 +1,29 @@
+.b{
+ background-color: rgb(16, 47, 156);
+}
+.h1{
+    color: white;
+    background-color: rgb(31, 215, 101);
+    font-size: 40px;
+    text-align: center;
+    width: 335px;
+    height: 70px;
+    margin-left: 500px ;
+}
+.dv{
+color: white;
+background-color: rgb(18, 89, 189);
+width: 729px;
+height: 500px;
+margin: 0 auto;
+border: 10px solid red;
+}
+.h3{
+    color: black;
+    background-color: aqua;
+    width: 650px;
+    height: 170px;
+    font-size: 24px;
+    padding: 3%;
+    margin: 3% 3%;
+}
